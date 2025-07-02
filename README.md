@@ -21,7 +21,6 @@ Proyek skripsi tugas akhir yang mengembangkan sistem sortir buah apel Malang sec
 - `skripsi.pdf`: Laporan lengkap penelitian
 - `kode_sorting_apel.ino`: Kode Arduino
 - `diagram_alat.png`: Gambar rancangan alat
-- `data_uji.csv`: Contoh data pengujian
 
 ## 📌 Penulis
 **Rizqy Alfajri**  
